@@ -1,0 +1,13 @@
+pip>=25.3
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+category_encoders
+xgboost
+scikit-optimize
+shap
+imbalanced-learn
+openpyxl
